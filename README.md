@@ -1,2 +1,2 @@
-# FashionArts
-Fashion &amp; Design Website created using only HTML &amp; CSS
+FashionArts Design & Fashion Website
+Visit the FashionArt Website for the latest Fashion & Merch.
