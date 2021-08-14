@@ -1,2 +1,2 @@
 # FashionArts Design & Fashion Website.
-## Visit the FashionArt Website for the latest Fashion & Merch.
+## Visit the FashionArts Website for the latest Fashion & Merch.
